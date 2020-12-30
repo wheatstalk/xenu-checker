@@ -4,6 +4,9 @@
     "type": "git",
     "url": "https://github.com/wheatstalk/xenu-checker.git"
   },
+  "bin": {
+    "xenu-checker": "bin/xenu-checker"
+  },
   "scripts": {
     "projen": "npx projen",
     "start": "npx projen start",

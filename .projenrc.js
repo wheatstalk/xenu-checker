@@ -5,6 +5,9 @@ const project = new JsiiProject({
   authorName: 'Josh Kellendonk',
   authorEmail: 'joshua@wheatstalk.ca',
   repository: 'https://github.com/wheatstalk/xenu-checker.git',
+  bin: {
+    'xenu-checker': 'bin/xenu-checker',
+  },
 });
 
 project.gitignore.exclude('.idea', '*.iml');
