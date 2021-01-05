@@ -8,9 +8,9 @@ junit.xml
 /coverage
 /test
 /.mergify.yml
+/tsconfig.json
 /src
 dist
-/tsconfig.json
 /.github
 /.vscode
 /.idea
@@ -19,4 +19,3 @@ dist
 !/lib
 !/lib/**/*.js
 !/lib/**/*.d.ts
-!.jsii

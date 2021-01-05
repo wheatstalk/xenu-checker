@@ -1,0 +1,32 @@
+Address	Status-Code	Status-Text	Type	Size	Title	Date	Level	Links Out	Links In	Server	Error	Duration	Charset	Description
+https://www.iana.org/	200	ok	text/html	6735	Internet Assigned Numbers Authority	24.05.2018  19:40:12	0	42		Apache		00:02.686	utf-8	
+https://www.iana.org/_css/2015.1/screen.css	200	ok	text/css	45831		28.10.2020  02:20:35	1		1	Apache		00:00.051		
+https://www.iana.org/_css/2015.1/print.css	200	ok	text/css	37683		01.10.2016  16:44:02	1		1	Apache		00:00.101		
+https://www.iana.org/_img/bookmark_icon.ico	200	ok	image/vnd.microsoft.icon	7406		04.01.2013  01:17:14	1		1	Apache		00:00.140	utf-8	
+https://www.iana.org/_js/2013.1/jquery.js	200	ok	application/javascript	93068		22.04.2013  18:18:55	1		1	Apache		00:00.277	utf-8	
+https://www.iana.org/_js/2013.1/iana.js	200	ok	application/javascript	68		08.08.2016  18:14:43	1		1	Apache		00:00.295	utf-8	
+http://iana.org/	-2	skip external					1		1			00:00.000	utf-8	
+https://www.iana.org/about/	200	ok	text/html		Learn more.		1		1	Apache		00:00.411	utf-8	
+https://www.iana.org/domains	200	ok	text/html	8148	Domain Names	06.12.2018  20:20:15	1		1	Apache		00:00.338	utf-8	
+https://www.iana.org/domains/root	200	ok	text/html	7908	Root Zone Management	08.10.2020  21:30:41	1		1	Apache		00:00.385	utf-8	
+https://www.iana.org/domains/root/db	200	ok	text/html	377320	Database of Top Level Domains		1		1	Apache		00:00.530	utf-8	
+https://www.iana.org/domains/int	200	ok	text/html	6985	.int Registry	01.10.2016  16:44:03	1		1	Apache		00:00.453	utf-8	
+https://www.iana.org/domains/arpa	200	ok	text/html	10465	.arpa Registry		1		1	Apache		00:00.509	utf-8	
+https://www.iana.org/domains/idn-tables	200	ok	text/html	2729237	IDN Practices Repository		1		1	Apache		00:01.198	utf-8	
+https://www.iana.org/numbers	200	ok	text/html	10990	Number Resources	01.10.2016  16:44:03	1		1	Apache		00:00.567	utf-8	
+https://www.iana.org/abuse	200	ok	text/html	8123	Network abuse information	01.10.2016  16:44:03	1		1	Apache		00:00.605	utf-8	
+https://www.iana.org/protocols	200	ok	text/html	913490	Protocol Assignments		1		1	Apache		00:00.882	utf-8	
+https://www.iana.org/protocols/apply	200	ok	text/html	6024	Apply for an assignment	20.10.2020  04:25:42	1		1	Apache		00:00.911	utf-8	
+https://www.iana.org/time-zones	200	ok	text/html	6672	Time Zone Database		1		1	Apache		00:00.957	utf-8	
+https://icann.org/privacy	-2	skip external			Learn more.		1		1			00:00.000	utf-8	
+https://www.iana.org/about	200	ok	text/html	7451	About Us	03.01.2020  18:55:27	1		1	Apache		00:01.001	utf-8	
+https://www.iana.org/about/presentations	200	ok	text/html	36432	Presentations		1		1	Apache		00:01.051	utf-8	
+https://www.iana.org/reports	200	ok	text/html	282810	Reports		1		1	Apache		00:01.146	utf-8	
+https://www.iana.org/performance	200	ok	text/html	8238	Performance	06.12.2018  20:00:16	1		1	Apache		00:01.187	utf-8	
+https://www.iana.org/reviews	200	ok	text/html	8456	Reviews	01.10.2016  16:44:03	1		1	Apache		00:01.195	utf-8	
+https://www.iana.org/about/excellence	200	ok	text/html	6505	Excellence	01.10.2016  16:44:03	1		1	Apache		00:01.223	utf-8	
+https://www.iana.org/contact	200	ok	text/html	4883	Contact Us	01.10.2016  16:44:03	1		1	Apache		00:01.240	utf-8	
+http://pti.icann.org/	-2	skip external			Public Technical Identifiers		1		1			00:00.000	utf-8	
+http://www.icann.org/	-2	skip external			ICANN		1		1			00:00.000	utf-8	
+https://www.icann.org/privacy/policy	-2	skip external			Privacy Policy		1		1			00:00.000	utf-8	
+https://www.icann.org/privacy/tos	-2	skip external			Terms of Service		1		1			00:00.000	utf-8	

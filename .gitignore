@@ -41,10 +41,10 @@ junit.xml
 /coverage
 /lib
 /dist
-.jsii
-tsconfig.json
 .idea
 *.iml
+/tmp*
+/SB.txt
 !/.projen/tasks.json
 !/.projen/deps.json
 !/package.json
@@ -60,7 +60,7 @@ tsconfig.json
 !/.github/dependabot.yml
 !/.github/pull_request_template.md
 !/.github/workflows/rebuild-bot.yml
+!/tsconfig.json
 !/src
 !/tsconfig.jest.json
 !/.eslintrc.json
-!/API.md

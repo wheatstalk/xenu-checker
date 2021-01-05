@@ -25,5 +25,3 @@ jobs:
         run: npx projen build
       - name: Anti-tamper check
         run: git diff --exit-code
-    container:
-      image: jsii/superchain
