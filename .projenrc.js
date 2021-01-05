@@ -1,10 +1,15 @@
 const { TypeScriptProject } = require('projen');
 
+const prTemplate = `<!-- description of this change -->
+---
+By submitting this pull request, I confirm that my contribution is made under the terms of the Apache 2.0 license.`;
+
 const project = new TypeScriptProject({
   name: '@wheatstalk/xenu-checker',
   authorName: 'Josh Kellendonk',
   authorEmail: 'joshua@wheatstalk.ca',
   repository: 'https://github.com/wheatstalk/xenu-checker.git',
+  pullRequestTemplateContents: prTemplate,
   deps: [
     'csv@^5.3.2',
     'jmespath@^0.15.0',
