@@ -5,6 +5,12 @@ const project = new TypeScriptProject({
   authorName: 'Josh Kellendonk',
   authorEmail: 'joshua@wheatstalk.ca',
   repository: 'https://github.com/wheatstalk/xenu-checker.git',
+  pullRequestTemplateContents: [
+    '<!-- description of this change -->',
+    '',
+    '---',
+    'By submitting this pull request, I confirm that my contribution is made under the terms of the Apache 2.0 license.',
+  ],
   deps: [
     'csv@^5.3.2',
     'jmespath@^0.15.0',
