@@ -5,6 +5,8 @@ const project = new TypeScriptProject({
   authorName: 'Josh Kellendonk',
   authorEmail: 'joshua@wheatstalk.ca',
   repository: 'https://github.com/wheatstalk/xenu-checker.git',
+  releaseToNpm: true,
+  releaseEveryCommit: true,
   pullRequestTemplateContents: [
     '<!-- description of this change -->',
     '',
