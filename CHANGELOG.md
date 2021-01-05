@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.5](https://github.com/wheatstalk/xenu-checker/compare/v0.0.4...v0.0.5) (2021-01-05)
+
+
+### Features
+
+* mvp ([f1e3e8a](https://github.com/wheatstalk/xenu-checker/commit/f1e3e8a2c491d503af3b25509d90a27435048f4a))
+
 ### [0.0.4](https://github.com/wheatstalk/xenu-checker/compare/v0.0.3...v0.0.4) (2020-12-31)
 
 ### [0.0.3](https://github.com/wheatstalk/xenu-checker/compare/v0.0.2...v0.0.3) (2020-12-30)
