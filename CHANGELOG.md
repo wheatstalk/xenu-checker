@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.7](https://github.com/wheatstalk/xenu-checker/compare/v0.0.5...v0.0.7) (2021-01-05)
+
+
+### Bug Fixes
+
+* incorrect pullRequestTemplateContents format ([c3c180a](https://github.com/wheatstalk/xenu-checker/commit/c3c180a5a0020e06c4072e3bc2193ebb09cfec14))
+
 ### [0.0.6](https://github.com/wheatstalk/xenu-checker/compare/v0.0.5...v0.0.6) (2021-01-05)
 
 ### [0.0.5](https://github.com/wheatstalk/xenu-checker/compare/v0.0.4...v0.0.5) (2021-01-05)
