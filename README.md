@@ -14,10 +14,24 @@ Features:
 - Check the contents of the page for a regex and produce a warning.
 - Run the link checker from a CD pipeline or other automation system to monitor
   progress in implementing all old links.
-- Filter links from the `.txt` file by JMESPath expression.
+- Filter links from the `.txt` TSV file by JMESPath expression.
 - Transpose the domain part of all links to another domain, such as a dev or test site.
 - Checks are issued with configurable levels of concurrency
 - Emits a JSON file which you can futher-process in your CD pipeline
+
+## Filter Expressions
+
+The `--filter` option allows you to filter by field in the TSV file that Xenu Outputs. Here are some fields available in the file:
+
+| Field | Description/Example |
+| ----- | -------- |
+| `Address` | `https://www.iana.org/` |
+| `Status-Code` | `200` |
+| `Type` | `text/html`, `image/gif`, `application/javascript` |
+| `Size` | `6735` (bytes) |
+| `Title` | `Internet Assigned Numbers Authority` |
+| `Links In` | `42` |
+| `Links Out` | `0` |
 
 ## Example Usage
 
@@ -26,8 +40,8 @@ Features:
 npx -p @wheatstalk/xenu-checker xenu-checker \
   check \
   --filter "Type == 'text/html'" \
-  --check-regex _next \
   --transpose-domain https://test.mywebsite.com \
+  --check-regex _next \
   --concurrency 100 \
   mywebsite-com.txt
 ```
