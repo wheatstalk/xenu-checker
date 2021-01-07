@@ -43,7 +43,7 @@ check.action((tsv, args) => {
 check.option('-c, --concurrency <concurrency>', 'Sets request concurrency (default: 100)');
 check.option('-f, --filter <filter>', 'Filters Xenu addresses by JMESPath');
 check.option('-d, --transpose-domain <domain>', 'Transposes the domain from the Xenu file to a new site (e.g., a test site)');
-check.option('-r, --regex <regex>', 'Checks the result of the final location for a regex');
+check.option('-r, --check-regex <regex>', 'Checks the result of the final location for a regex');
 check.option('-n, --num-links <num-links>', 'Limits the results to a number of links (default: no limit)');
 
 prog.parse(process.argv);
