@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.11](https://github.com/wheatstalk/xenu-checker/compare/v0.0.10...v0.0.11) (2021-01-07)
+
+
+### Bug Fixes
+
+* cli option for check regex wrong ([ca2d9ac](https://github.com/wheatstalk/xenu-checker/commit/ca2d9acd633860e54e0f2819a6d121288f5cbabc))
+
 ### [0.0.10](https://github.com/wheatstalk/xenu-checker/compare/v0.0.9...v0.0.10) (2021-01-06)
 
 ### [0.0.9](https://github.com/wheatstalk/xenu-checker/compare/v0.0.8...v0.0.9) (2021-01-05)
