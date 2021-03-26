@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.0.40](https://github.com/wheatstalk/xenu-checker/compare/v0.0.37...v0.0.40) (2021-03-26)
+
 ### [0.0.39](https://github.com/wheatstalk/xenu-checker/compare/v0.0.37...v0.0.39) (2021-03-23)
 
 ### [0.0.38](https://github.com/wheatstalk/xenu-checker/compare/v0.0.37...v0.0.38) (2021-03-18)
