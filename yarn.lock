@@ -520,17 +520,17 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@supercharge/goodies@~1.5.1":
-  version "1.5.1"
-  resolved "https://registry.yarnpkg.com/@supercharge/goodies/-/goodies-1.5.1.tgz#7ec3327419fd700074770b9363eafd6053e6a3e6"
-  integrity sha512-LrbIgboxJ9labELaN6JUcZEWAdKveohRI3u11ILb/rqrKbeXkN8/ezoLvWJ0oo9s/HeBf0REFTD3XpVEio053g==
+"@supercharge/goodies@~1.8.0":
+  version "1.8.0"
+  resolved "https://registry.yarnpkg.com/@supercharge/goodies/-/goodies-1.8.0.tgz#8211e8779e77871f356f234a4aff97011e012f36"
+  integrity sha512-2CVM584Z1J/pyOS95qhFmQ0RFm3Y3kia3lydLFw0o0UgRd29vhyhheRKcJaGTQf5I3HJGdRoLLWVkrWuObwz1w==
 
 "@supercharge/promise-pool@^1.6.0":
-  version "1.6.0"
-  resolved "https://registry.yarnpkg.com/@supercharge/promise-pool/-/promise-pool-1.6.0.tgz#033aa064a4fdbe316f57d0ae1072d4ba05b02973"
-  integrity sha512-/zQnPJ2CMfGdVI1OlWn7fUfYSyLjTUHWxQ3svvrCwNznrpxZsa+nMC1QDkJ5LCiVzYrfQx7sK5pYcSSaQpmE+w==
+  version "1.6.1"
+  resolved "https://registry.yarnpkg.com/@supercharge/promise-pool/-/promise-pool-1.6.1.tgz#1c26b168ef934fb7906e9695b325acc4dee249c2"
+  integrity sha512-QNt/cVr6P0q9fbY9tQVTZJ5gkay79etvM0k71BAixCWlSvn9h4U4DuG1IhVsQi5Aka06KVF+PA98lJNI4Ad1Rw==
   dependencies:
-    "@supercharge/goodies" "~1.5.1"
+    "@supercharge/goodies" "~1.8.0"
 
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.7":
   version "7.1.12"
