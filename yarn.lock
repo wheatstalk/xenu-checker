@@ -535,9 +535,9 @@
     "@sinonjs/commons" "^1.7.0"
 
 "@supercharge/promise-pool@^1.6.0":
-  version "1.8.0"
-  resolved "https://registry.yarnpkg.com/@supercharge/promise-pool/-/promise-pool-1.8.0.tgz#c4de407addce4726b4fd2b4cfc6e63e60c6fe94f"
-  integrity sha512-g0RjxIQbKHp+J/DuCyt4/Sdn4hRWwOlL/DM2xQvnK6bWnG43nGrveBN6YeheQD0X04hBV+4Aj0kjxJ579i6U+A==
+  version "1.9.0"
+  resolved "https://registry.yarnpkg.com/@supercharge/promise-pool/-/promise-pool-1.9.0.tgz#7630c760535919db93711ca35716ada59d86feb7"
+  integrity sha512-UqQrree8uGTCEDKAnGJci1B7NGIZ1xepXHjUEqbH16Wgvr/j5+54hxebkpTpDcz5t2SrzY6J6USSlmgQeo66/g==
 
 "@types/babel__core@^7.0.0", "@types/babel__core@^7.1.7":
   version "7.1.12"
